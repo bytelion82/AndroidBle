@@ -1,0 +1,88 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/giel"
+
+    tools:context="com.example.TLQ.MainActivity" >
+
+    <TextView
+        android:id="@+id/message"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="2dp"
+        android:gravity="center"
+        android:text="TOOSAKA"
+        android:textColor="#66ccff"
+        android:textSize="30dp" />
+
+    <ImageButton
+        android:id="@+id/bluetooth"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#00000000"
+        android:scaleType="fitXY"
+        android:src="@drawable/bluetooth" />
+
+    <ImageButton
+        android:id="@+id/control"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+
+        android:layout_marginBottom="0dp"
+        android:background="#00000000"
+        android:scaleType="fitXY"
+        android:src="@drawable/cotrol" />
+
+    <TextView
+        android:text="WIFI名称："
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="12dp"
+        android:id="@+id/textView"
+        android:layout_alignBottom="@+id/name"
+        android:layout_toStartOf="@+id/password"
+        android:layout_alignTop="@+id/name"
+        android:textSize="18sp" />
+
+    <TextView
+        android:text="WIFI密码："
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:layout_alignBaseline="@+id/password"
+        android:layout_alignBottom="@+id/password"
+        android:layout_alignStart="@+id/textView"
+        android:textSize="18sp" />
+
+    <EditText
+        android:hint="password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/password"
+        android:background="#e9a82f"
+        android:layout_above="@+id/control"
+        android:layout_toStartOf="@+id/control"
+        android:layout_marginBottom="78dp" />
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="wifiname"
+        android:background="#e9a82f"
+        android:layout_above="@+id/textView2"
+        android:layout_marginBottom="16dp"
+        android:layout_alignEnd="@+id/password"
+        android:layout_toEndOf="@+id/textView" />
+
+</RelativeLayout>

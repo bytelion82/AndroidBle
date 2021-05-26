@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\ForMouse\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\device_name.xml",
+        "source": "F:\\ForMouse\\res\\layout-hdpi\\device_name.xml"
+    },
+    {
+        "merged": "F:\\ForMouse\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\activity_main.xml",
+        "source": "F:\\ForMouse\\res\\layout-hdpi\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\ForMouse\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\activity_ts_control.xml",
+        "source": "F:\\ForMouse\\res\\layout-hdpi\\activity_ts_control.xml"
+    },
+    {
+        "merged": "F:\\ForMouse\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\activity_my_bluetooth.xml",
+        "source": "F:\\ForMouse\\res\\layout-hdpi\\activity_my_bluetooth.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Wed May 26 17:07:59 CST 2021
+base.0=F\:\\ForMouse\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5a33769d49bb5f3056a3d04e563022311f0fce3d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\ForMouse\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6059b07256882353a851cf63ad62c5fb0b7dc204\\classes.dex
+base.1=F\:\\ForMouse\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6059b07256882353a851cf63ad62c5fb0b7dc204
+file.0=F\:\\ForMouse\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5a33769d49bb5f3056a3d04e563022311f0fce3d\\classes.dex

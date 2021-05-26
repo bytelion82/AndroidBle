@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\ForMouse\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="30.0.1"
+        sha1="c35692f7af4b36c9c99beb09ebd0295a855fa7bc">
+        <dex dex="F:\ForMouse\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6059b07256882353a851cf63ad62c5fb0b7dc204\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ForMouse\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="30.0.1"
+        sha1="e19387dc3b060af32f5401f84fbe246635256955">
+        <dex dex="F:\ForMouse\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_1daeb82b88727a508217bf6b3c9c98b95fd6d407\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ForMouse\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="30.0.1"
+        sha1="80b8995341b6afff3306912b7cb6635beb770855">
+        <dex dex="F:\ForMouse\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5a33769d49bb5f3056a3d04e563022311f0fce3d\classes.dex" />
+    </item>
+
+</items>

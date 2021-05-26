@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\ForMouse\\build\\intermediates\\res\\merged\\debug\\menu\\my_control.xml",
+        "source": "F:\\ForMouse\\res\\menu\\my_control.xml"
+    },
+    {
+        "merged": "F:\\ForMouse\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\ForMouse\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\ForMouse\\build\\intermediates\\res\\merged\\debug\\menu\\my_bluetooth.xml",
+        "source": "F:\\ForMouse\\res\\menu\\my_bluetooth.xml"
+    },
+    {
+        "merged": "F:\\ForMouse\\build\\intermediates\\res\\merged\\debug\\menu\\bluetooth_rfcomm_client.xml",
+        "source": "F:\\ForMouse\\res\\menu\\bluetooth_rfcomm_client.xml"
+    }
+]

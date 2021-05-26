@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="29"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="685995311684100"
+    token="3127657329285320831"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1265" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="594" />
+    <task
+        name="verifier"
+        duration="16" />
+
+    <artifact
+        location="F:\ForMouse\build\outputs\apk\ForMouse-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="685995311684100"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="F:\ForMouse\build\outputs\apk\ForMouse-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
